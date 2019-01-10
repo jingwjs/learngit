@@ -1,2 +1,2 @@
 this is ex1.txt
-
+adding data in master branch
